@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+TC&size=24&duration=3500&pause=900&color=1F6FEB&center=false&vCenter=true&width=650&lines=%E6%93%85%E9%95%B7%E9%80%8F%E9%81%8E%E5%95%8F%E9%A1%8C%E6%89%BE%E5%88%B0%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%95%8F%E9%A1%8C" alt="擅長透過問問題找到真正的問題" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+TC&size=24&duration=3500&pause=900&color=1F6FEB&center=false&vCenter=true&width=650&lines=%E6%93%85%E9%95%B7%E9%80%8F%E9%81%8E%E5%95%8F%E9%A1%8C%E6%89%BE%E5%88%B0%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%95%8F%E9%A1%8C" alt="擅長透過提問找到癥結點" />
 </p>
 
 # Hi, I'm Ashley
